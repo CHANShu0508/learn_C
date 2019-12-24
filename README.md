@@ -2,7 +2,7 @@
 
 ## 笔记
 
-* [字符串](notes/chapter12.md)
+* [字符串](notes/chapter13.md)
 
 ## 示例代码
 
